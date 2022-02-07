@@ -1,7 +1,6 @@
 # DJS-Prefix
 
-[![CodeFactor](https://www.codefactor.io/repository/github/supersweatytejas/DJS-Prefix/badge/main)]
-(https://www.codefactor.io/repository/github/supersweatytejas/DJS-Prefix/overview/main)
+[![CodeFactor](https://www.codefactor.io/repository/github/supersweatytejas/djs-prefix/badge)](https://www.codefactor.io/repository/github/supersweatytejas/djs-prefix)
 [![license](https://nuggies.js.org/assets/img/license.ade17f5e.svg)](https://github.com/SuperSweatyTejas/DJS-Prefix/blob/main/LICENSE)
 
 
